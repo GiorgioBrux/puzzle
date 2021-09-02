@@ -38,7 +38,7 @@ function magenta(){
 
     }
     console.log(`Magenta = ` + magenta)
-    if(magenta === 3) {
+    if(magenta === 12) {
         console.log("Win! Solution: " + solution);
         let modal = document.getElementById("myModal");
         modal.style.display = "block";
